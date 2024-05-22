@@ -5,7 +5,7 @@ This repository contains modules for the SAMBA model, which maps electrophysiolo
 ## Module Overview
 
 ### Electrophysiological to Hemodynamic Mapping
-The `SambaEleToHemo.py` script in `./model/samba_ele_to_hemo/` initializes the process of HRF learning, temporal encoding (downsampling), and spatial decoding (upsampling). It leverages various modules located in `./nn/`.
+The `SambaEleToHemo.py` script in `./model/samba_ele_to_hemo` initializes the process of HRF learning, temporal encoding (downsampling), and spatial decoding (upsampling). It leverages various modules located in `./nn/`.
 
 ### Neural Network Modules
 
